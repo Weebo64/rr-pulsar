@@ -168,7 +168,8 @@ enum HardAI {
 
 enum InputDisplay {
     INPUTDISPLAY_DISABLED,
-    INPUTDISPLAY_ENABLED
+    INPUTDISPLAY_ENABLED,
+    INPUTDISPLAY_CHUK
 };
 
 enum RaceSettingMII {
